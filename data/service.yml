@@ -1,0 +1,38 @@
+---
+enable: true
+title: "Why Choose Us?"
+subtitle: >
+          We provide professional, convenient, and reliable mobile car detailing
+          services that come directly to you, ensuring your vehicle looks its best
+          without disrupting your day.
+services:
+  - name: "Convenience"
+    description: >
+                We come to you, whether you're at home, at work, or anywhere else. 
+                Save time and enjoy a spotless car without the hassle.
+    icon: "ti-truck"
+  - name: "Quality Service"
+    description: >
+                Our team uses high-quality products and professional techniques to
+                give your car the attention it deserves, from basic washes to premium detailing.
+    icon: "ti-medall-alt"
+  - name: "Affordable Packages"
+    description: >
+                We offer a range of services to suit every budget and need, ensuring 
+                top-notch results without breaking the bank.
+    icon: "ti-wallet"
+  - name: "Easy Booking"
+    description: >
+                Book your detailing appointment easily online or by phone with flexible scheduling options that fit your routine.
+    icon: "ti-calendar"
+  - name: "Eco-Friendly Products"
+    description: >
+                We care about the environment and use eco-friendly cleaning products 
+                that are safe for both your car and the planet.
+    icon: "ti-leaf"
+  - name: "Customer Satisfaction"
+    description: >
+                Your satisfaction is our top priority. We provide personalized services 
+                to meet your specific needs and deliver results that shine.
+    icon: "ti-smile"
+---
