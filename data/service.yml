@@ -1,38 +1,20 @@
----
 enable: true
-title: "Why Choose Us?"
+title: "Why Choose RB AutoDetailing?"
 subtitle: >
-          We provide professional, convenient, and reliable mobile car detailing
-          services that come directly to you, ensuring your vehicle looks its best
-          without disrupting your day.
+          We offer expert mobile car detailing services, providing convenience, quality, and reliability right at your location, so your vehicle always looks its best without any disruption to your day.
 services:
-  - name: "Convenience"
+  - name: "On-Site Service"
     description: >
-                We come to you, whether you're at home, at work, or anywhere else. 
-                Save time and enjoy a spotless car without the hassle.
+                We bring our detailing expertise to you, whether at home, work, or wherever you need us. 
+                Save time while enjoying a pristine vehicle.
     icon: "ti-truck"
-  - name: "Quality Service"
+  - name: "Affordable Options"
     description: >
-                Our team uses high-quality products and professional techniques to
-                give your car the attention it deserves, from basic washes to premium detailing.
-    icon: "ti-medall-alt"
-  - name: "Affordable Packages"
-    description: >
-                We offer a range of services to suit every budget and need, ensuring 
-                top-notch results without breaking the bank.
+                We provide a variety of services designed to fit every budget and requirement, 
+                delivering excellent results without the high price tag.
     icon: "ti-wallet"
-  - name: "Easy Booking"
+  - name: "Simple Scheduling"
     description: >
-                Book your detailing appointment easily online or by phone with flexible scheduling options that fit your routine.
+                Easily book your detailing appointment online or by phone, with flexible 
+                scheduling that works around your lifestyle.
     icon: "ti-calendar"
-  - name: "Eco-Friendly Products"
-    description: >
-                We care about the environment and use eco-friendly cleaning products 
-                that are safe for both your car and the planet.
-    icon: "ti-leaf"
-  - name: "Customer Satisfaction"
-    description: >
-                Your satisfaction is our top priority. We provide personalized services 
-                to meet your specific needs and deliver results that shine.
-    icon: "ti-smile"
----

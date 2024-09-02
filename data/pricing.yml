@@ -4,24 +4,26 @@ title: "Flexible Car Detailing Packages"
 subtitle: >
           Whether you need a quick clean or a thorough detailing,
           we have packages to suit all your needs.
-buttonTarget: "contact"
 itemPrices:
   - package: "Quick Wash"
     description: >
                 A fast and effective exterior wash with tire cleaning.
                 Perfect for maintaining a clean look on the go.
-    price: 29
-    badge:
+    price: 14.99
+    badge: "Addons Available"
+    buttonTarget: https://wa.me/447472863216?text=I'm%20interested%20in%20the%20Quick%20Wash%20package.%20Can%20I%20get%20more%20details%3F
   - package: "Full Detail"
     description: >
                 A comprehensive interior and exterior detailing service.
                 Includes vacuuming, polishing, and deep cleaning.
-    price: 99
-    badge: popular
+    price: 49.99
+    badge: "Best Value"
+    buttonTarget: https://wa.me/447472863216?text=I'm%20interested%20in%20the%20Full%20Detail%20package.%20Please%20provide%20more%20information.
   - package: "Premium Detail"
     description: >
                 Our most complete package with full interior shampoo,
                 exterior polish, and protective wax coating.
-    price: 149
+    price: 99.99
     badge:
+    buttonTarget: https://wa.me/447472863216?text=I'm%20interested%20in%20the%20Premium%20Detail%20package.%20I%20would%20like%20to%20book%20a%20session.
 ---

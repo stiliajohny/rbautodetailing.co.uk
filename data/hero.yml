@@ -1,11 +1,7 @@
----
-title : "<h1>KEEP YOUR CAR SPOTLESS WITH 
-            <br> PROFESSIONAL MOBILE DETAILING</h1>"
+title : "<h1>SPOTLESS. MOBILE. DETAILING.</h1>"
 enable: true
 subtitle: >
-        We bring premium car detailing services directly to your location. 
-        Experience the convenience of a showroom finish without leaving your driveway.
-heroBGimg: "images/hero/car-detailing-hero-bg.jpg"
-heroVideo : "https://vimeo.com/your-custom-detailing-video?autoplay=1&rel=0"
-herosVideoDesc: "<span> <strong>RB Detailing</strong> In 30 Seconds</span>"
----
+        Expert mobile detailing that revitalizes your vehicle, inside and out. Enjoy a pristine, professional finish wherever you are..
+heroBGimg: "images/hero/car-wash-detailing-station.jpg"
+#heroVideo : "https://vimeo.com/your-custom-detailing-video?autoplay=1&rel=0"
+#herosVideoDesc: "<span> <strong>RB AutoDetailing</strong> In 30 Seconds</span>"

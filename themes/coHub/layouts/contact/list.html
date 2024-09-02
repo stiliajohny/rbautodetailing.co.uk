@@ -4,43 +4,20 @@
     <div class="row">
       <div class="col-lg-10 mx-auto col-md-12">
         <div class="page-header">
-          <h2> {{ .Title }}</h2>
-          <p>{{.Params.subTitle}}</p>
+          <h2>{{ .Title }}</h2>
+          <p>{{ .Params.subTitle }}</p>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <div class="contact-form">
-          <h2>Contact Form</h2>
-          <form id="contact-form" class="row" action="{{ .Site.Params.fabFormURL }}" method="POST">
-            <div class="col-md-6">
-              <input type="text" class="form-control" id="exampleFormControlInput1" name="Name" placeholder="Your Name">
-            </div>
-            <div class="col-md-6">
-              <input type="email" class="form-control" id="validationCustom02" required="" name="email" placeholder="Your Email">
-            </div>
-            <div class="col-md-12">
-              <textarea class="form-control" id="exampleFormControlTextarea1" rows="8" name="message"
-                placeholder="Message here…"></textarea>
-            </div>
-            <div class="col-md-12">
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="gridCheck" name="checkbox" required>
-                <label class="form-check-label" for="gridCheck">
-                  I agree that my submitted data is being collected and stored.
-                </label>
-              </div>
-            </div>
-            <div class="col-lg-12">
-              <button type="submit" class="btn btn-primary" id="contact-form-button" formtarget="_blank">Send Message</button>
-            </div>
-            <p id="contact-form-status"></p>
-          </form>
-          <p class="contact-form-generator mt-3">
-            <strong>** </strong> <a href="https://fabform.io/" target="_blank">Static website forms</a>
-          </p>
-        </div>
+        <h3>Contact Information</h3>
+        <p><strong>Address:</strong> {{ .Site.Params.address.address }}</p>
+        <p><strong>Email:</strong> <a href="mailto:{{ .Site.Params.address.email }}">{{ .Site.Params.address.email }}</a></p>
+        <p><strong>Phone:</strong> <a href="tel:{{ .Site.Params.address.phone }}">{{ .Site.Params.address.phone }}</a></p>
+        <p><strong>WhatsApp:</strong> <a href="https://wa.me/{{ .Site.Params.address.phone | replace " " "" | replace "+" "" }}?text=Hi%2C%20I'm%20interested%20in%20booking%20a%20car%20detailing%20service.%20Please%20provide%20more%20details.">Chat with me on WhatsApp</a></p>
+        <p><strong>Opening Hours:</strong> {{ .Site.Params.address.openingHours }}</p>
+        <p>{{ .Site.Params.address.openingDesc }}</p>
       </div>
     </div>
   </div>
