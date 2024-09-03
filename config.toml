@@ -1,6 +1,6 @@
-baseURL = 'https://rbdetailing.netlify.app/'
+baseURL = 'https://rb-autodetailing.uk/'
 languageCode = 'en-us'
-paginate = 6
+paginate = 2
 theme= "coHub"
 title = 'RB AutoDetailing'
 
@@ -10,12 +10,12 @@ title = 'RB AutoDetailing'
   [[menu.Main]]
   name = "Pricing"
   url= "#pricing"
-  weight = 5
+  weight = 1
 
   [[menu.Main]]
   name = "Book Now"
   url= "/contact/"
-  weight = 7
+  weight = 2
 
   # Sitemap Menu
   [[menu.sitemap]]
