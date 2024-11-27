@@ -1,4 +1,4 @@
-baseURL = 'https://rb-autodetailing.uk/'
+baseURL = 'https://rbautodetailing.co.uk/'
 languageCode = 'en-us'
 paginate = 2
 theme= "coHub"
