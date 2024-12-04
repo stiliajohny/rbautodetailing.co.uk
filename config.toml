@@ -41,9 +41,9 @@ title = 'RB AutoDetailing'
 
   [params.address]
   address = "West London, UK"
-  email = "Autodetailingrb@gmail.com"
+  email = "info@rbautodetailing.co.uk"
   openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
-  openingHours = "We are open from 7am — 7pm week days."
+  openingHours = "We are open from 7am — 7pm every day days. Call us for special arrangements."
   phone = "+447472863216"
 
   [params.map]
@@ -56,5 +56,5 @@ title = 'RB AutoDetailing'
   # Social icons
   [[params.social]]
   icon = "ti-instagram"
-  url = "https://www.instagram.com/rb_auto_detailing_ltd/"
+  url = "https://www.instagram.com/rbautodetailingltd/"
   weight = 1
