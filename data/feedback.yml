@@ -1,9 +1,12 @@
 ---
 enable: false
-title: "Valuable Feedback"
+title: "Customer Testimonials"
 feedback: >
-          ‘We achieved a cost-savings project while achieving cultural transformation to collaborate better together.
-            Our innovation lab brings ideas, skills and importantly, individuals together to enable innovation.’
-feedbackAuthor: "FRANCIS VAN PARYS, PRESIDENT AND CEO, GE HEALTHCARE KOREA"
-backgroundImage: images/testimonial-bg.jpg
+          "I recently had my car detailed by Reza, and I couldn't be more impressed with the results! 
+          From the moment I dropped off my car, the service was professional, thorough, and exceeded 
+          my expectations. The attention to detail and quality of work was outstanding. My car looks 
+          better than when it was new!"
+feedbackAuthor: "Pouria Moghaddam, Verified Customer"
+
+backgroundImage: "images/hero/car-wash-detailing-station.jpg"
 ---
