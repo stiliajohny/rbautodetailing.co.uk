@@ -17,6 +17,7 @@ title = 'RB AutoDetailing'
   url= "/contact/"
   weight = 2
 
+
   # Sitemap Menu
   [[menu.sitemap]]
   name = "Privacy Policy"
@@ -27,6 +28,7 @@ title = 'RB AutoDetailing'
   name = "Terms"
   url = "/terms/"
   weight = 2
+
 
 [params]
   # theme_overrides = "css/overrides.css"
