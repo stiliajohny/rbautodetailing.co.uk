@@ -1,5 +1,57 @@
 .pricing {
   padding: 100px 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+
+  &.parallax-section {
+    overflow: hidden;
+    perspective: 10px;
+    transform-style: preserve-3d;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: inherit;
+      background-size: cover;
+      transform: translateZ(-1px) scale(2);
+      z-index: -1;
+      min-height: 100%;
+    }
+  }
+
+  .parallax-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+  }
+
+  .container {
+    position: relative;
+    z-index: 2;
+  }
+
+  .section-title {
+
+    h2,
+    p {
+      color: #fff;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    }
+  }
 
   @include desktop {
     padding: 50px 0;
@@ -11,6 +63,22 @@
 
   &-wraper {
     transition: all 0.3s ease-in-out;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.5s ease-out forwards;
+    animation-delay: calc(var(--card-index, 0) * 0.1s);
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    &:hover {
+      transform: translateY(-10px) scale(1.02);
+      box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+    }
 
     .pricing-item {
       background: $white;
@@ -102,18 +170,22 @@
         margin-bottom: 20px;
       }
     }
+  }
+}
 
-    &:hover {
-      transform: scale(1.05);
+// Add smooth scrolling to the whole page for better parallax effect
+html {
+  scroll-behavior: smooth;
+}
 
-      a {
-        background-color: darken($color: $primary-color, $amount: 10);
-        transform: translateY(0);
-      }
+// Add media query to disable parallax on mobile devices
+@media (max-width: 768px) {
+  .pricing {
+    background-attachment: scroll;
+    min-height: auto;
 
-      span.price {
-        color: $primary-color;
-      }
+    &.parallax-section::before {
+      transform: none;
     }
   }
 }
