@@ -1,24 +1,39 @@
 ---
-title: "CoHub Terms & Conditions"
+title: "RB AutoDetailing Terms & Conditions"
 date: 2022-01-08T12:52:02+06:00
 subtitle: >
-          Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
+          Our Terms & Conditions outline the guidelines for using RB AutoDetailing services to ensure clarity and mutual understanding.
 ---
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+## Terms & Conditions
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+### 1. Booking and Payment
+- **Booking Confirmation:** All bookings are subject to confirmation and availability.
+- **Payment:** Full payment is required upon completion of the service, unless otherwise agreed in advance.
+- **Cancellation Policy:** Cancellations must be made at least 24 hours prior to the booking time. Late cancellations may incur a fee.
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+### 2. Service Scope
+- **Service Details:** We strive to deliver high-quality valeting services as described in our packages. Any specific requests should be discussed prior to service commencement.
+- **Exclusions:** RB AutoDetailing is not responsible for pre-existing damage, defects, or mechanical issues.
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+### 3. Vehicle Condition
+- **Pre-Service Inspection:** A visual inspection will be conducted before starting any work. Photographic evidence may be taken to document the vehicle's condition.
+- **Heavy Soiling or Stains:** Additional charges may apply for excessively dirty vehicles or difficult stains.
 
-## What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+### 4. Liability
+- **Personal Belongings:** Customers are advised to remove all personal items from the vehicle. We are not liable for any loss or damage to items left in the vehicle.
+- **Damage Disclaimer:** While utmost care is taken, we are not responsible for minor scratches, chips, or other pre-existing damage.
 
+### 5. Health and Safety
+- **Hazardous Materials:** Vehicles containing hazardous materials or conditions deemed unsafe will not be serviced.
+
+### 6. Satisfaction Guarantee
+- **Rework Policy:** If you are not satisfied with the service, please notify us immediately. We will make reasonable efforts to address your concerns.
+
+### 7. Privacy Policy
+- **Customer Data:** We respect your privacy and only collect necessary information to facilitate bookings. Your data will not be shared without your consent.
+
+### 8. Changes to Terms
+- **Updates:** RB AutoDetailing reserves the right to update these terms and conditions without prior notice. Please refer to our website for the latest version.
+
+Thank you for choosing RB AutoDetailing. We look forward to providing you with outstanding valeting services.
