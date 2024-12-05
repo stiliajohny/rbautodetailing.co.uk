@@ -92,6 +92,6 @@ extraServices:
   - package: "Screenwash Refill"
     price: 5.00
     description: "Windscreen washer fluid refill service."
-backgroundImage: "images/hero/car-wash-detailing-station.jpg"
+backgroundImage: "images/hero/water-drops-surface-dark.jpg"
 
 ---
