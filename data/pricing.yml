@@ -12,7 +12,7 @@ itemPrices:
     price: 25.00
     badge: "Basic"
     note: "Small £25.00 - Large £30.00"
-    buttonTarget: https://wa.me/447310199599?text=I'm%20interested%20in%20the%20Exterior%20package.
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Exterior%20package.
 
   - package: "Exterior Plus"
     description: >
@@ -21,7 +21,7 @@ itemPrices:
     price: 30.00
     badge: "Popular"
     note: "Small £30.00 - Large £35.00"
-    buttonTarget: https://wa.me/447310199599?text=I'm%20interested%20in%20the%20Exterior%20Plus%20package.
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Exterior%20Plus%20package.
 
   - package: "Bronze Valet"
     description: >
@@ -30,7 +30,7 @@ itemPrices:
     price: 38.00
     badge: "Value"
     note: "Small £38.00 - Large £45.00"
-    buttonTarget: https://wa.me/447310199599?text=I'm%20interested%20in%20the%20Bronze%20Valet%20package.
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Bronze%20Valet%20package.
 
   - package: "Silver Valet"
     description: >
@@ -39,7 +39,7 @@ itemPrices:
                 Door Shots Cleaning.
     price: 45.00
     note: "Small £45.00 - Large £55.00"
-    buttonTarget: https://wa.me/447310199599?text=I'm%20interested%20in%20the%20Silver%20Valet%20package.
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Silver%20Valet%20package.
 
   - package: "Interior Valet"
     description: >
@@ -49,7 +49,7 @@ itemPrices:
     price: 85.00
     badge: "Interior Special"
     note: "Small £85.00 - Large £100.00"
-    buttonTarget: https://wa.me/447310199599?text=I'm%20interested%20in%20the%20Interior%20Valet%20package.
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Interior%20Valet%20package.
 
   - package: "Gold Valet"
     description: >
@@ -59,7 +59,7 @@ itemPrices:
     price: 95.00
     badge: "Best Value"
     note: "Small £95.00 - Large £115.00"
-    buttonTarget: https://wa.me/447310199599?text=I'm%20interested%20in%20the%20Gold%20Valet%20package.
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Gold%20Valet%20package.
 
   - package: "Platinum Valet"
     description: >
@@ -70,7 +70,7 @@ itemPrices:
     price: 165.00
     badge: "Premium"
     note: "Small £165.00 - Large £190.00"
-    buttonTarget: https://wa.me/447310199599?text=I'm%20interested%20in%20the%20Platinum%20Valet%20package.
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Platinum%20Valet%20package.
 
 extraServices:
   - package: "Sanitisation"
