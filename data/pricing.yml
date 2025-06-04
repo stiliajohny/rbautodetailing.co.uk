@@ -1,12 +1,14 @@
 ---
-# Professional Mobile Valeting Services - Only services from the provided images are listed below
-# Each service includes: name, description, capped price, and duration (if shown)
-
+enable: true
+title: "Professional Mobile Valeting Services"
+subtitle: >
+          Professional mobile car valeting service in Merton, Westminster & surrounding areas.
+          We come to your home or workplace.
 itemPrices:
   - package: "Exterior"
     description: >
-      Full Body Wash, Dry, Wheels Cleaning, Windows Polish, Tyre Shine.
-      Perfect for a quick refresh of your vehicle.
+                Full Body Wash, Dry, Wheels Cleaning, Windows Polish, Tyre Shine.
+                Perfect for a quick refresh of your vehicle.
     price: 25.00
     badge: "Basic"
     note: "Small £25.00 - Large £30.00"
@@ -14,8 +16,8 @@ itemPrices:
 
   - package: "Exterior Plus"
     description: >
-      Full Body Wash, Body Wax, Wheels Cleaning, Windows Polish,
-      Tyre Dressing, Plastic Dressing.
+                Full Body Wash, Body Wax, Wheels Cleaning, Windows Polish,
+                Tyre Dressing, Plastic Dressing.
     price: 30.00
     badge: "Popular"
     note: "Small £30.00 - Large £35.00"
@@ -23,8 +25,8 @@ itemPrices:
 
   - package: "Bronze Valet"
     description: >
-      Full Body Wash, Dry, Wheels Cleaning, Windows(In/Out) Polish,
-      Light Vacuuming, Dashboard Cleaning, Door Shots Cleaning, Tyre Shine.
+                Full Body Wash, Dry, Wheels Cleaning, Windows(In/Out) Polish,
+                Light Vacuuming, Dashboard Cleaning, Door Shots Cleaning, Tyre Shine.
     price: 38.00
     badge: "Value"
     note: "Small £38.00 - Large £45.00"
@@ -32,18 +34,18 @@ itemPrices:
 
   - package: "Silver Valet"
     description: >
-      Full Body Wash, Body Wax, Tyre & Plastic Dressing, Spare Tyre Area,
-      Windows(In/Out) Polish, Deep Vacuum, Boot Vacuum, Dashboard Cleaning,
-      Door Shots Cleaning.
+                Full Body Wash, Body Wax, Tyre & Plastic Dressing, Spare Tyre Area,
+                Windows(In/Out) Polish, Deep Vacuum, Boot Vacuum, Dashboard Cleaning,
+                Door Shots Cleaning.
     price: 45.00
     note: "Small £45.00 - Large £55.00"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Silver%20Valet%20package.
 
   - package: "Interior Valet"
     description: >
-      Deep Vacuum, Seats Cleaned and treated, Interior Detailed Clean,
-      Upholstery Shampoo & Sealant, Dashboard Cleanse, Leather Treatment,
-      Centre Console, Windows(In/Out) Polish, Spare Tyre Area, Air Vents.
+                Deep Vacuum, Seats Cleaned and treated, Interior Detailed Clean,
+                Upholstery Shampoo & Sealant, Dashboard Cleanse, Leather Treatment,
+                Centre Console, Windows(In/Out) Polish, Spare Tyre Area, Air Vents.
     price: 85.00
     badge: "Interior Special"
     note: "Small £85.00 - Large £100.00"
@@ -51,9 +53,9 @@ itemPrices:
 
   - package: "Gold Valet"
     description: >
-      Full Body Wash, Body Wax, Buff, Interior Detailed Clean, Seats Cleaned,
-      Leather Treatment, Door Shuts/Stops, Windows(In/Out) Polish, Tyre & Plastic Dressing,
-      Dashboard Cleaning, Wheel Arches Deep Cleaning, Boot Cleaning.
+                Full Body Wash, Body Wax, Buff, Interior Detailed Clean, Seats Cleaned,
+                Leather Treatment, Door Shuts/Stops, Windows(In/Out) Polish, Tyre & Plastic Dressing,
+                Dashboard Cleaning, Wheel Arches Deep Cleaning, Boot Cleaning.
     price: 95.00
     badge: "Best Value"
     note: "Small £95.00 - Large £115.00"
@@ -61,14 +63,35 @@ itemPrices:
 
   - package: "Platinum Valet"
     description: >
-      Our most comprehensive service including Full Body Wash, HD Wax Sealant,
-      Buff, Upholstery Shampoo & Sealant, Tyre Shine, Alloys, Vehicle Deodorisation,
-      Door Shuts/Stops, Windows Polish, Tyre Pressure Check, Screenwash Top-up,
-      Full Interior Detail with Leather Care.
+                Our most comprehensive service including Full Body Wash, HD Wax Sealant,
+                Buff, Upholstery Shampoo & Sealant, Tyre Shine, Alloys, Vehicle Deodorisation,
+                Door Shuts/Stops, Windows Polish, Tyre Pressure Check, Screenwash Top-up,
+                Full Interior Detail with Leather Care.
     price: 165.00
     badge: "Premium"
     note: "Small £165.00 - Large £190.00"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Platinum%20Valet%20package.
 
-# End of services from images
+extraServices:
+  - package: "Sanitisation"
+    price: 30.00
+    description: >
+                O3 gas treatment that destroys airborne and surface contaminants
+                such as bacteria, viruses, and odors.
+
+  - package: "HD Body Polish"
+    price: 35.00
+    description: >
+                High Definition Polish with polymers and microcrystalline waxes
+                for protection against environmental contaminants.
+
+  - package: "Pet Hair Removal"
+    price: 10.00
+    description: "Deep clean of upholstery to remove at least 95% of pet hair."
+
+  - package: "Screenwash Refill"
+    price: 5.00
+    description: "Windscreen washer fluid refill service."
+backgroundImage: "images/hero/water-drops-surface-dark.jpg"
+
 ---
