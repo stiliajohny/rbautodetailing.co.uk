@@ -13,7 +13,7 @@ itemPrices:
                 Full interior steam cleaned, Pet hair removal, Air freshener applied.
     price: 90.00
     badge: "Interior"
-    note: "Price capped at £90"
+    note: "1h"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Interior%20Deep%20Clean%20package.
 
   - package: "Machine Polish"
@@ -23,7 +23,7 @@ itemPrices:
                 Single stage machine polish, High gloss wax.
     price: 300.00
     badge: "Paintwork"
-    note: "4h | Price capped at £300"
+    note: "4h"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Machine%20Polish%20package.
 
   - package: "Soft Top Restoration"
@@ -32,7 +32,7 @@ itemPrices:
                 Mould and mildew removal, Full drying of top and vehicle.
     price: 85.00
     badge: "Convertible"
-    note: "6h | Price capped at £85"
+    note: "6h"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Soft%20Top%20Restoration%20package.
 
   - package: "Ceramic Coating"
@@ -42,7 +42,7 @@ itemPrices:
                 Ceramic coating application.
     price: 350.00
     badge: "Premium Protection"
-    note: "6h | Price capped at £350"
+    note: "6h"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Ceramic%20Coating%20package.
 
   - package: "Mould Removal"
@@ -52,7 +52,7 @@ itemPrices:
                 Air compressor, Sanitiser bomb, Ozone treatment.
     price: 130.00
     badge: "Sanitisation"
-    note: "2h | Price capped at £130"
+    note: "2h"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Mould%20Removal%20package.
 
   - package: "Full Valet"
@@ -61,7 +61,7 @@ itemPrices:
                 Seat/Leather treatment, Plastic & leather detailing, Headliner & vent cleaning, Pedal cleaning.
     price: 130.00
     badge: "Full Service"
-    note: "2h | Price capped at £130"
+    note: "2h"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Full%20Valet%20package.
 
   - package: "Mini Valet"
@@ -70,7 +70,7 @@ itemPrices:
                 Interior hoover, Tyre & wax dressing, Air freshener.
     price: 65.00
     badge: "Basic"
-    note: "1h | Price capped at £65"
+    note: "1h"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Mini%20Valet%20package.
 
   - package: "Headlight Restoration"
@@ -79,7 +79,7 @@ itemPrices:
                 Appearance & functionality improvement.
     price: 60.00
     badge: "Lighting"
-    note: "1h | Price capped at £60"
+    note: "1h"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Headlight%20Restoration%20package.
 
   - package: "Exterior Valet"
@@ -88,7 +88,7 @@ itemPrices:
                 Glass cleaned inside & out.
     price: 40.00
     badge: "Exterior"
-    note: "1h | Price capped at £40"
+    note: "1h"
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Exterior%20Valet%20package.
 
   - package: "Interior Valet"
@@ -97,7 +97,7 @@ itemPrices:
                 seatbelt and upholstery cleaned, Headliner wipe, Air freshener.
     price: 50.00
     badge: "Interior"
-    note: "1h | Price capped at £50"
+    note: "1h "
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Interior%20Valet%20package.
 
   - package: "Pet Hair Removal"
@@ -106,7 +106,7 @@ itemPrices:
                 Perfect for pet owners wanting to freshen up their car interior and improve air quality.
     price: 35.00
     badge: "Pet Care"
-    note: "1h | Price capped at £35"
+    note: "1h "
     buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Pet%20Hair%20Removal%20package.
 
 backgroundImage: "images/hero/water-drops-surface-dark.jpg"
