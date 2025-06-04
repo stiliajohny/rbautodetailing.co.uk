@@ -3,155 +3,72 @@
 # Each service includes: name, description, capped price, and duration (if shown)
 
 itemPrices:
-  - package: "Exterior Valet"
+  - package: "Exterior"
     description: >
-      A basic valet of just the exterior of your vehicle including:
-      - Wheels and arches cleaned
-      - Door Jams cleaned
-      - Bodywork Snow foamed and rinsed
-      - Contact wash
-      - Badges and intricate areas cleaned and rinsed
-      - Exterior thoroughly rinsed
-      - Exterior dried
-      - Glass cleaned inside and out
-    price: 40
-    note: "Capped at £40"
-    duration: 1h
+      Full Body Wash, Dry, Wheels Cleaning, Windows Polish, Tyre Shine.
+      Perfect for a quick refresh of your vehicle.
+    price: 25.00
+    badge: "Basic"
+    note: "Small £25.00 - Large £30.00"
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Exterior%20package.
+
+  - package: "Exterior Plus"
+    description: >
+      Full Body Wash, Body Wax, Wheels Cleaning, Windows Polish,
+      Tyre Dressing, Plastic Dressing.
+    price: 30.00
+    badge: "Popular"
+    note: "Small £30.00 - Large £35.00"
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Exterior%20Plus%20package.
+
+  - package: "Bronze Valet"
+    description: >
+      Full Body Wash, Dry, Wheels Cleaning, Windows(In/Out) Polish,
+      Light Vacuuming, Dashboard Cleaning, Door Shots Cleaning, Tyre Shine.
+    price: 38.00
+    badge: "Value"
+    note: "Small £38.00 - Large £45.00"
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Bronze%20Valet%20package.
+
+  - package: "Silver Valet"
+    description: >
+      Full Body Wash, Body Wax, Tyre & Plastic Dressing, Spare Tyre Area,
+      Windows(In/Out) Polish, Deep Vacuum, Boot Vacuum, Dashboard Cleaning,
+      Door Shots Cleaning.
+    price: 45.00
+    note: "Small £45.00 - Large £55.00"
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Silver%20Valet%20package.
 
   - package: "Interior Valet"
     description: >
-      A valet of just the interior of your vehicle including:
-      - Rubbish cleared
-      - Thorough hoovering
-      - Mats professionally cleaned
-      - Steering wheel cleaned
-      - Dashboard cleaned
-      - Infotainment screen cleaned
-      - Seatbelts and fasteners cleaned
-      - Seats vacuumed or Leathers cleaned
-      - All plastics and leather upholstery are cleaned and dressed (where accessible)
-      - Headliner wiped down
-      - Air freshener applied
-    price: 50
-    note: "Capped at £50"
-    duration: 1h
+      Deep Vacuum, Seats Cleaned and treated, Interior Detailed Clean,
+      Upholstery Shampoo & Sealant, Dashboard Cleanse, Leather Treatment,
+      Centre Console, Windows(In/Out) Polish, Spare Tyre Area, Air Vents.
+    price: 85.00
+    badge: "Interior Special"
+    note: "Small £85.00 - Large £100.00"
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Interior%20Valet%20package.
 
-  - package: "Mini Valet"
+  - package: "Gold Valet"
     description: >
-      A thorough clean of the exterior and interior of your vehicle. This typically includes:
-      - Wheels and arches pre washed and cleaned
-      - Door Jams cleaned
-      - Bodywork Pre washed
-      - Bodywork Snow foamed and washed
-      - Badges and intricate areas cleaned and rinsed
-      - Full rinse with rinse aid
-      - Dried using state of the art products
-      - Glass cleaned inside and out
-      - Interior dusted and Hoovered
-      - Long lasting Tyre dressing
-      - High Quality wax applied
-      - Luxury Air freshener
-    price: 65
-    note: "Capped at £65"
-    duration: 1h
+      Full Body Wash, Body Wax, Buff, Interior Detailed Clean, Seats Cleaned,
+      Leather Treatment, Door Shuts/Stops, Windows(In/Out) Polish, Tyre & Plastic Dressing,
+      Dashboard Cleaning, Wheel Arches Deep Cleaning, Boot Cleaning.
+    price: 95.00
+    badge: "Best Value"
+    note: "Small £95.00 - Large £115.00"
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Gold%20Valet%20package.
 
-  - package: "Full Valet"
+  - package: "Platinum Valet"
     description: >
-      A deep clean of both the interior and exterior of your vehicle. This service includes all of the features of a Mini valet, plus the following:
-      - Iron Fall out remover, Tar remover applied to paintwork
-      - Carpets and Mats steamed, shampooed and wet vacuumed
-      - Seats shampooed and wet vacuumed or Leathers deep cleaned and conditioned
-      - All plastics and leather upholstery are steam cleaned, scrubbed and dressed
-      - Headliner steam cleaned and dried
-      - Air vents deep cleaned
-      - Pedals deep cleaned
-    price: 130
-    note: "Capped at £130"
-    duration: 2h
-
-  - package: "Mould Removal"
-    description: >
-      Mould removal and sanitisation of the interior of your car including:
-      - Full Interior Reset
-      - Seatbelts disinfected
-      - Floors and Carpets shampooed and disinfected
-      - Seat shampooed
-      - Leather Cleaned
-      - Headliner cleaned & Disinfected
-      - Full interior Steam cleaned
-      - Full Air Compressor used
-      - Car Sanitiser Air Bomb
-      - Ozone Treatment
-    price: 130
-    note: "Capped at £130"
-    duration: 2h
-
-  - package: "Ceramic Coating"
-    description: >
-      A ceramic coating professionally applied to the exterior of your vehicle, to protect the paintwork from light scratches, contaminants, dirt and UV rays for years. This extensive package includes:
-      - A full exterior deep clean and decontamination
-      - Paint correction designed to remove swirl marks, minor scratches, bird and tree sap etching and any other defects in the clear coat
-      - Removal of any polishing residue preparing the paintwork for coating
-      - Application of a ceramic coating, safeguarding the entirety of your freshly polished paintwork from day to day damage and contamination
-    price: 350
-    note: "Capped at £350"
-    duration: 6h
-
-  - package: "Soft Top Restoration"
-    description: >
-      Deep cleaning of your soft top convertible roof. Restoring the fabric to its original condition. This service includes:
-      - Exterior valet
-      - Soft top fabric shampooed
-      - Mould and Mildew removal to restore the soft tops original colour
-      - Soft top and exterior of vehicle dried
-    price: 85
-    note: "Capped at £85"
-    duration: 6h
-
-  - package: "Machine Polish"
-    description: >
-      Stage 1 machine polish of the exterior of your vehicle to remove light swirl marks and paint defects. This service will bring your vehicles paintwork back to its showroom shine, and typically includes:
-      - An exterior deep clean
-      - Full paint decontamination
-      - Paint is blow dried and plush towel dried
-      - Single stage machine polish
-      - High gloss wax applied
-    price: 300
-    note: "Capped at £300"
-    duration: 4h
-
-  - package: "Headlight Restoration"
-    description: >
-      Headlight restoration involves cleaning and polishing foggy or yellowed headlights to restore clarity and brightness. This process typically includes:
-      - Sanding, buffing
-      - Applying a protective coating to remove oxidation and scratches
-      - Improving both the appearance and functionality of the headlights for safer driving
-    price: 60
-    note: "Capped at £60"
-    duration: 1h
-
-  - package: "Interior Deep Clean"
-    description: >
-      A comprehensive deep clean of the interior of your vehicle bringing it back to its factory setting. This includes:
-      - Rubbish cleared
-      - Full interior hoovered and dusted
-      - Floors and carpets shampooed
-      - Seats shampooed
-      - Leather cleaned and dressed
-      - Headliner cleaned
-      - Steering wheel deep cleaned
-      - Full interior steam cleaned
-      - Pet hair removal
-      - Air freshener applied
-    price: 90
-    note: "Capped at £90"
-
-  - package: "Pet Hair Removal"
-    description: >
-      Removal of pet hair from your vehicle's interior, ensuring a clean and allergen-free environment.
-    price: 35
-    note: "Capped at £35"
-    duration: 1h
+      Our most comprehensive service including Full Body Wash, HD Wax Sealant,
+      Buff, Upholstery Shampoo & Sealant, Tyre Shine, Alloys, Vehicle Deodorisation,
+      Door Shuts/Stops, Windows Polish, Tyre Pressure Check, Screenwash Top-up,
+      Full Interior Detail with Leather Care.
+    price: 165.00
+    badge: "Premium"
+    note: "Small £165.00 - Large £190.00"
+    buttonTarget: https://wa.me/447310100500?text=I'm%20interested%20in%20the%20Platinum%20Valet%20package.
 
 # End of services from images
 ---
