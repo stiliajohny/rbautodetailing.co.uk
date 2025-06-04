@@ -4,150 +4,150 @@
 
 itemPrices:
   - package: "Exterior Valet"
-    description: |
+    description: >
       A basic valet of just the exterior of your vehicle including:
-        - Wheels and arches cleaned
-        - Door Jams cleaned
-        - Bodywork Snow foamed and rinsed
-        - Contact wash
-        - Badges and intricate areas cleaned and rinsed
-        - Exterior thoroughly rinsed
-        - Exterior dried
-        - Glass cleaned inside and out
+      - Wheels and arches cleaned
+      - Door Jams cleaned
+      - Bodywork Snow foamed and rinsed
+      - Contact wash
+      - Badges and intricate areas cleaned and rinsed
+      - Exterior thoroughly rinsed
+      - Exterior dried
+      - Glass cleaned inside and out
     price: 40
     note: "Capped at £40"
     duration: 1h
 
   - package: "Interior Valet"
-    description: |
+    description: >
       A valet of just the interior of your vehicle including:
-        - Rubbish cleared
-        - Thorough hoovering
-        - Mats professionally cleaned
-        - Steering wheel cleaned
-        - Dashboard cleaned
-        - Infotainment screen cleaned
-        - Seatbelts and fasteners cleaned
-        - Seats vacuumed or Leathers cleaned
-        - All plastics and leather upholstery are cleaned and dressed (where accessible)
-        - Headliner wiped down
-        - Air freshener applied
+      - Rubbish cleared
+      - Thorough hoovering
+      - Mats professionally cleaned
+      - Steering wheel cleaned
+      - Dashboard cleaned
+      - Infotainment screen cleaned
+      - Seatbelts and fasteners cleaned
+      - Seats vacuumed or Leathers cleaned
+      - All plastics and leather upholstery are cleaned and dressed (where accessible)
+      - Headliner wiped down
+      - Air freshener applied
     price: 50
     note: "Capped at £50"
     duration: 1h
 
   - package: "Mini Valet"
-    description: |
+    description: >
       A thorough clean of the exterior and interior of your vehicle. This typically includes:
-        - Wheels and arches pre washed and cleaned
-        - Door Jams cleaned
-        - Bodywork Pre washed
-        - Bodywork Snow foamed and washed
-        - Badges and intricate areas cleaned and rinsed
-        - Full rinse with rinse aid
-        - Dried using state of the art products
-        - Glass cleaned inside and out
-        - Interior dusted and Hoovered
-        - Long lasting Tyre dressing
-        - High Quality wax applied
-        - Luxury Air freshener
+      - Wheels and arches pre washed and cleaned
+      - Door Jams cleaned
+      - Bodywork Pre washed
+      - Bodywork Snow foamed and washed
+      - Badges and intricate areas cleaned and rinsed
+      - Full rinse with rinse aid
+      - Dried using state of the art products
+      - Glass cleaned inside and out
+      - Interior dusted and Hoovered
+      - Long lasting Tyre dressing
+      - High Quality wax applied
+      - Luxury Air freshener
     price: 65
     note: "Capped at £65"
     duration: 1h
 
   - package: "Full Valet"
-    description: |
+    description: >
       A deep clean of both the interior and exterior of your vehicle. This service includes all of the features of a Mini valet, plus the following:
-        - Iron Fall out remover, Tar remover applied to paintwork
-        - Carpets and Mats steamed, shampooed and wet vacuumed
-        - Seats shampooed and wet vacuumed or Leathers deep cleaned and conditioned
-        - All plastics and leather upholstery are steam cleaned, scrubbed and dressed
-        - Headliner steam cleaned and dried
-        - Air vents deep cleaned
-        - Pedals deep cleaned
+      - Iron Fall out remover, Tar remover applied to paintwork
+      - Carpets and Mats steamed, shampooed and wet vacuumed
+      - Seats shampooed and wet vacuumed or Leathers deep cleaned and conditioned
+      - All plastics and leather upholstery are steam cleaned, scrubbed and dressed
+      - Headliner steam cleaned and dried
+      - Air vents deep cleaned
+      - Pedals deep cleaned
     price: 130
     note: "Capped at £130"
     duration: 2h
 
   - package: "Mould Removal"
-    description: |
+    description: >
       Mould removal and sanitisation of the interior of your car including:
-        - Full Interior Reset
-        - Seatbelts disinfected
-        - Floors and Carpets shampooed and disinfected
-        - Seat shampooed
-        - Leather Cleaned
-        - Headliner cleaned & Disinfected
-        - Full interior Steam cleaned
-        - Full Air Compressor used
-        - Car Sanitiser Air Bomb
-        - Ozone Treatment
+      - Full Interior Reset
+      - Seatbelts disinfected
+      - Floors and Carpets shampooed and disinfected
+      - Seat shampooed
+      - Leather Cleaned
+      - Headliner cleaned & Disinfected
+      - Full interior Steam cleaned
+      - Full Air Compressor used
+      - Car Sanitiser Air Bomb
+      - Ozone Treatment
     price: 130
     note: "Capped at £130"
     duration: 2h
 
   - package: "Ceramic Coating"
-    description: |
+    description: >
       A ceramic coating professionally applied to the exterior of your vehicle, to protect the paintwork from light scratches, contaminants, dirt and UV rays for years. This extensive package includes:
-        - A full exterior deep clean and decontamination
-        - Paint correction designed to remove swirl marks, minor scratches, bird and tree sap etching and any other defects in the clear coat
-        - Removal of any polishing residue preparing the paintwork for coating
-        - Application of a ceramic coating, safeguarding the entirety of your freshly polished paintwork from day to day damage and contamination
+      - A full exterior deep clean and decontamination
+      - Paint correction designed to remove swirl marks, minor scratches, bird and tree sap etching and any other defects in the clear coat
+      - Removal of any polishing residue preparing the paintwork for coating
+      - Application of a ceramic coating, safeguarding the entirety of your freshly polished paintwork from day to day damage and contamination
     price: 350
     note: "Capped at £350"
     duration: 6h
 
   - package: "Soft Top Restoration"
-    description: |
+    description: >
       Deep cleaning of your soft top convertible roof. Restoring the fabric to its original condition. This service includes:
-        - Exterior valet
-        - Soft top fabric shampooed
-        - Mould and Mildew removal to restore the soft tops original colour
-        - Soft top and exterior of vehicle dried
+      - Exterior valet
+      - Soft top fabric shampooed
+      - Mould and Mildew removal to restore the soft tops original colour
+      - Soft top and exterior of vehicle dried
     price: 85
     note: "Capped at £85"
     duration: 6h
 
   - package: "Machine Polish"
-    description: |
+    description: >
       Stage 1 machine polish of the exterior of your vehicle to remove light swirl marks and paint defects. This service will bring your vehicles paintwork back to its showroom shine, and typically includes:
-        - An exterior deep clean
-        - Full paint decontamination
-        - Paint is blow dried and plush towel dried
-        - Single stage machine polish
-        - High gloss wax applied
+      - An exterior deep clean
+      - Full paint decontamination
+      - Paint is blow dried and plush towel dried
+      - Single stage machine polish
+      - High gloss wax applied
     price: 300
     note: "Capped at £300"
     duration: 4h
 
   - package: "Headlight Restoration"
-    description: |
+    description: >
       Headlight restoration involves cleaning and polishing foggy or yellowed headlights to restore clarity and brightness. This process typically includes:
-        - Sanding, buffing
-        - Applying a protective coating to remove oxidation and scratches
-        - Improving both the appearance and functionality of the headlights for safer driving
+      - Sanding, buffing
+      - Applying a protective coating to remove oxidation and scratches
+      - Improving both the appearance and functionality of the headlights for safer driving
     price: 60
     note: "Capped at £60"
     duration: 1h
 
   - package: "Interior Deep Clean"
-    description: |
+    description: >
       A comprehensive deep clean of the interior of your vehicle bringing it back to its factory setting. This includes:
-        - Rubbish cleared
-        - Full interior hoovered and dusted
-        - Floors and carpets shampooed
-        - Seats shampooed
-        - Leather cleaned and dressed
-        - Headliner cleaned
-        - Steering wheel deep cleaned
-        - Full interior steam cleaned
-        - Pet hair removal
-        - Air freshener applied
+      - Rubbish cleared
+      - Full interior hoovered and dusted
+      - Floors and carpets shampooed
+      - Seats shampooed
+      - Leather cleaned and dressed
+      - Headliner cleaned
+      - Steering wheel deep cleaned
+      - Full interior steam cleaned
+      - Pet hair removal
+      - Air freshener applied
     price: 90
     note: "Capped at £90"
 
   - package: "Pet Hair Removal"
-    description: |
+    description: >
       Removal of pet hair from your vehicle's interior, ensuring a clean and allergen-free environment.
     price: 35
     note: "Capped at £35"
