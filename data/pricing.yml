@@ -146,5 +146,12 @@ itemPrices:
     price: 90
     note: "Capped at £90"
 
+  - package: "Pet Hair Removal"
+    description: |
+      Removal of pet hair from your vehicle's interior, ensuring a clean and allergen-free environment.
+    price: 35
+    note: "Capped at £35"
+    duration: 1h
+
 # End of services from images
 ---
